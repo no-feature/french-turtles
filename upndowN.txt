@@ -1,0 +1,7 @@
+forward 3.5
+left 45
+forward 5 
+right 45
+forward 3.5
+pen up 
+
