@@ -1,0 +1,9 @@
+O
+
+pen up
+forward 3
+right 90
+forward 1,5
+pen down
+arc direction: right; radius: 1; angle: 360
+
