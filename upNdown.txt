@@ -1,0 +1,20 @@
+pen up
+right 90 
+forward 8
+left 90
+pen down
+forward 4
+left 90
+arc radius 4 angle 180
+right 90
+forward 7
+left 90
+arc radius 3 angle 180
+left 180
+forward 2
+left 180
+forward 2
+right 90
+forward 2
+
+
