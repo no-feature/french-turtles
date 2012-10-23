@@ -1,0 +1,4 @@
+fwd 3
+right 180
+fwd 1,5
+arc 1,5 , 180
