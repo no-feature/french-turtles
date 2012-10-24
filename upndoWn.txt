@@ -1,0 +1,21 @@
+45 left
+forward 3
+pen up
+180
+forward 3
+90 left
+pen down
+forward 3
+pen up
+180
+45 left
+forward 3
+180
+pen down 
+forward 3
+pen up
+180
+forward 3
+90
+pen down
+home
