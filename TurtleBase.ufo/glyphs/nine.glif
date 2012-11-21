@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine" format="1">
+  <advance width="1000"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="261.604" y="0.37207" type="move"/>
+      <point x="357.358" y="55.6562" type="line"/>
+      <point x="412.643" y="151.41" type="line"/>
+      <point x="412.643" y="648.962" type="line"/>
+      <point x="357.358" y="744.717" type="line"/>
+      <point x="261.604" y="800" type="line"/>
+      <point x="151.038" y="800" type="line"/>
+      <point x="55.2832" y="744.717" type="line"/>
+      <point x="0" y="648.962" type="line"/>
+      <point x="0" y="538.396" type="line"/>
+      <point x="55.2832" y="442.642" type="line"/>
+      <point x="151.038" y="387.357" type="line"/>
+      <point x="261.604" y="387.357" type="line"/>
+      <point x="405.235" y="470.283" type="line"/>
+    </contour>
+  </outline>
+</glyph>
