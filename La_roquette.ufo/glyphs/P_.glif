@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="1000"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="0" y="0.37207" type="move"/>
+      <point x="0" y="800" type="line"/>
+      <point x="319.851" y="800" type="line"/>
+      <point x="470.63" y="649.221" type="line"/>
+      <point x="470.63" y="435.986" type="line"/>
+      <point x="319.851" y="285.207" type="line"/>
+      <point x="-0" y="285.207" type="line"/>
+    </contour>
+  </outline>
+</glyph>
