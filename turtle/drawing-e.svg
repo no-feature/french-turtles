@@ -14,7 +14,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="drawing-b.svg">
+   sodipodi:docname="drawing-e.svg">
   <sodipodi:namedview
      inkscape:window-height="624"
      inkscape:window-width="1210"
@@ -27,9 +27,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.46024771"
+     inkscape:zoom="0.28"
      inkscape:cx="77.092511"
-     inkscape:cy="439.82687"
+     inkscape:cy="439.61585"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:current-layer="g4455"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -180,9 +180,19 @@
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output">
     <path
-       id="path4457"
-       d="m 99.945154,899.77974 399.813816,0 -399.813816,0 0,-399.81381 299.860356,0 -299.860356,0 0,-399.81382 399.813816,0"
-       style="fill:none;stroke:#000000;stroke-width:4.99904919;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       id="path3351"
+       d="m 99.945155,899.77974 399.813815,0"
+       style="fill:none;stroke:#000000;stroke-width:1.99906909px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3353"
+       d="m 99.945155,899.77974 0,-399.81381 299.860375,0"
+       style="fill:none;stroke:#000000;stroke-width:1.99906909px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3355"
+       d="m 99.945155,499.96593 0,-399.81382 399.813815,0"
+       style="fill:none;stroke:#000000;stroke-width:1.99906909px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>
