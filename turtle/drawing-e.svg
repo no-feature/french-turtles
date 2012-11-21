@@ -28,10 +28,10 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.28"
-     inkscape:cx="77.092511"
+     inkscape:cx="-551.47892"
      inkscape:cy="439.61585"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-x="175"
+     inkscape:window-y="124"
      inkscape:current-layer="g4455"
      inkscape:window-maximized="0">
     <sodipodi:guide
@@ -183,16 +183,16 @@
        inkscape:connector-curvature="0"
        id="path3351"
        d="m 99.945155,899.77974 399.813815,0"
-       style="fill:none;stroke:#000000;stroke-width:1.99906909px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
        inkscape:connector-curvature="0"
        id="path3353"
        d="m 99.945155,899.77974 0,-399.81381 299.860375,0"
-       style="fill:none;stroke:#000000;stroke-width:1.99906909px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
        inkscape:connector-curvature="0"
        id="path3355"
        d="m 99.945155,499.96593 0,-399.81382 399.813815,0"
-       style="fill:none;stroke:#000000;stroke-width:1.99906909px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>
