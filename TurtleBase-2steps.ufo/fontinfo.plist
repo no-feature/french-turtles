@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>TurtleBase-2steps</string>
+	<key>styleName</key>
+	<string>2steps</string>
+	<key>copyright</key>
+	<string>Created by Ludi,,, with FontForge 2.0 (http://fontforge.sf.net)</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>capHeight</key>
+	<integer>905</integer>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string>2012-11-21: Created.</string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/10/21 15:23:54</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 001.000</string>
+	<key>postscriptFontName</key>
+	<string>TurtleBase-2steps</string>
+	<key>postscriptFullName</key>
+	<string>TurtleBase 2 Steps</string>
+	<key>postscriptWeightName</key>
+	<string>Medium</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+    </dict>
+</plist>
