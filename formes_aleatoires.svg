@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Nouveau document 1">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="391.63413"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="g5529"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1">
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot2985"
+       xml:space="preserve"><flowRegion
+         id="flowRegion2987"><rect
+           y="115.21932"
+           x="88.571426"
+           height="742.85712"
+           width="634.28571"
+           id="rect2989" /></flowRegion><flowPara
+         id="flowPara2991" /></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text2993"
+       y="283.79077"
+       x="-745.71429"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3005"
+         y="283.79077"
+         x="-745.71429"
+         sodipodi:role="line" /><tspan
+         y="333.79077"
+         x="-745.71429"
+         sodipodi:role="line"
+         id="tspan3069">pendown()</tspan><tspan
+         y="383.79077"
+         x="-745.71429"
+         sodipodi:role="line"
+         id="tspan3071">forward(100)</tspan><tspan
+         y="433.79077"
+         x="-745.71429"
+         sodipodi:role="line"
+         id="tspan3073">right(90) </tspan><tspan
+         y="483.79077"
+         x="-745.71429"
+         sodipodi:role="line"
+         id="tspan3075">forward(200)</tspan><tspan
+         y="533.79077"
+         x="-745.71429"
+         sodipodi:role="line"
+         id="tspan3166">right(90)</tspan><tspan
+         y="583.79077"
+         x="-745.71429"
+         sodipodi:role="line"
+         id="tspan3168">forward(100)</tspan><tspan
+         y="633.79077"
+         x="-745.71429"
+         sodipodi:role="line"
+         id="tspan3170">right(90)</tspan><tspan
+         y="683.79077"
+         x="-745.71429"
+         sodipodi:role="line"
+         id="tspan3172">forward(200)</tspan><tspan
+         id="tspan3120"
+         y="733.79077"
+         x="-745.71429"
+         sodipodi:role="line">penup()</tspan><tspan
+         y="783.79077"
+         x="-745.71429"
+         sodipodi:role="line"
+         id="tspan3079" /></text>
+    <flowRoot
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       id="flowRoot3996"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3998"><rect
+           y="626.64789"
+           x="57.142857"
+           height="545.71429"
+           width="277.14285"
+           id="rect4000" /></flowRegion><flowPara
+         id="flowPara4002" /></flowRoot>    <flowRoot
+       transform="matrix(1,0,0,0.91465867,794.28571,71.817262)"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4004"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4006"><rect
+           y="463.79074"
+           x="57.142857"
+           height="751.80493"
+           width="622.85718"
+           id="rect4008" /></flowRegion><flowPara
+         id="flowPara4010">pendown()</flowPara><flowPara
+         id="flowPara4012">forward(200)</flowPara><flowPara
+         id="flowPara4014">right(180)</flowPara><flowPara
+         id="flowPara4016">right(30)</flowPara><flowPara
+         id="flowPara4018">forward(150)</flowPara><flowPara
+         id="flowPara4020">right(100)</flowPara><flowPara
+         id="flowPara4024">forward(200)</flowPara><flowPara
+         id="flowPara4028">left(180)</flowPara><flowPara
+         id="flowPara4030">forward(250)</flowPara><flowPara
+         id="flowPara4032">right(200)</flowPara><flowPara
+         id="flowPara4034">forward(100)</flowPara><flowPara
+         id="flowPara4036">penup()</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="268.57144"
+       y="1032.3622"
+       id="text4134"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4136"
+         x="268.57144"
+         y="1032.3622" /><tspan
+         sodipodi:role="line"
+         id="tspan4138"
+         x="268.57144"
+         y="1082.3622" /><tspan
+         sodipodi:role="line"
+         x="268.57144"
+         y="1132.3622"
+         id="tspan4140" /></text>
+    <flowRoot
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot4573"
+       xml:space="preserve"
+       transform="translate(1137.1429,-4)"><flowRegion
+         id="flowRegion4575"><rect
+           y="40.933613"
+           x="48.57143"
+           height="1000"
+           width="557.14288"
+           id="rect4577" /></flowRegion><flowPara
+         id="flowPara4579">pendown()</flowPara><flowPara
+         id="flowPara4581">forward(500)</flowPara><flowPara
+         id="flowPara4583">left(200)</flowPara><flowPara
+         id="flowPara4585">forward(100)</flowPara><flowPara
+         id="flowPara4587">left(50)</flowPara><flowPara
+         id="flowPara4589">forward(200)</flowPara><flowPara
+         id="flowPara4591">left(50)</flowPara><flowPara
+         id="flowPara4593">forward(150)</flowPara><flowPara
+         id="flowPara4595">right(300)</flowPara><flowPara
+         id="flowPara4597">forward(150)</flowPara><flowPara
+         id="flowPara4599">right(300)</flowPara><flowPara
+         id="flowPara4601">forward(200)</flowPara><flowPara
+         id="flowPara4603">penup()</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4783"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4785"><rect
+           id="rect4787"
+           width="505.71429"
+           height="948.57141"
+           x="51.42857"
+           y="83.790756" /></flowRegion><flowPara
+         id="flowPara4789">pendown()</flowPara><flowPara
+         id="flowPara4791">right(45)</flowPara><flowPara
+         id="flowPara4793">forward(100)</flowPara><flowPara
+         id="flowPara4795">left(45)</flowPara><flowPara
+         id="flowPara4797">forward(300)</flowPara><flowPara
+         id="flowPara4799">right(45)</flowPara><flowPara
+         id="flowPara4801">forward(100)</flowPara><flowPara
+         id="flowPara5423">left(180)</flowPara><flowPara
+         id="flowPara4803">penup()</flowPara></flowRoot>  </g>
+  <g
+     id="g3026"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g3101" />
+  <g
+     id="g3142"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g3199">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -739.38134,49.038241 100,0 0,199.999999 -100,0 0,-199.999999"
+       id="path3201" />
+  </g>
+  <g
+     id="g4084"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output">
+    <path
+       id="path4086"
+       d="m 854.90443,469.03825 199.99997,0 L 925.00053,308.15348 1053.5581,-20.499547 892.86123,390.31674 979.46373,283.06023"
+       style="fill:none;stroke:#000000;stroke-width:7.32313156;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       transform="translate(-491.42857,190.57143)"
+       xml:space="preserve"
+       id="flowRoot4142"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
+         id="flowRegion4144"><rect
+           id="rect4146"
+           width="334.28571"
+           height="962.85712"
+           x="37.142857"
+           y="95.219322" /></flowRegion><flowPara
+         id="flowPara4148">pendown()</flowPara><flowPara
+         id="flowPara4150">forward(300)</flowPara><flowPara
+         id="flowPara4152">right(180)</flowPara><flowPara
+         id="flowPara4154">forward(100)</flowPara><flowPara
+         id="flowPara4156">right(60)</flowPara><flowPara
+         id="flowPara4158">forward(200)</flowPara><flowPara
+         id="flowPara4415">left(100)</flowPara><flowPara
+         id="flowPara4417">forward(200)</flowPara><flowPara
+         id="flowPara4419">left(200)</flowPara><flowPara
+         id="flowPara4421">forward(150)</flowPara><flowPara
+         id="flowPara4423">left(100)</flowPara><flowPara
+         id="flowPara4425">forward(250)</flowPara><flowPara
+         id="flowPara4283">penup()</flowPara></flowRoot>  </g>
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g4221" />
+  <g
+     id="g4348"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g4498">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -243.66704,1234.7525 299.999999,0 -100,0 -99.999999,-173.2051 -153.20889,128.5576 75,-129.9038 -234.92316,-85.50507"
+       id="path4500" />
+  </g>
+  <g
+     id="g4692"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output">
+    <path
+       id="path4694"
+       d="m 1180.6187,706.75253 500,0 -93.9693,34.20201 -68.404,187.93853 75,129.90373 150,0 100,-173.205"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g4905" />
+  <g
+     id="g5110"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g5317" />
+  <g
+     id="g5529"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+</svg>
