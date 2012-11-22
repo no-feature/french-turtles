@@ -27,62 +27,62 @@
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>C</key>
-	<string>C_.glif</string>
+	<string>c_.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>A</key>
-	<string>A_.glif</string>
+	<string>a_.glif</string>
 	<key>B</key>
-	<string>B_.glif</string>
+	<string>b_.glif</string>
 	<key>D</key>
-	<string>D_.glif</string>
+	<string>d_.glif</string>
 	<key>G</key>
-	<string>G_.glif</string>
+	<string>g_.glif</string>
 	<key>F</key>
-	<string>F_.glif</string>
+	<string>f_.glif</string>
 	<key>H</key>
-	<string>H_.glif</string>
+	<string>h_.glif</string>
 	<key>I</key>
-	<string>I_.glif</string>
+	<string>i_.glif</string>
 	<key>E</key>
-	<string>E_.glif</string>
+	<string>e_.glif</string>
 	<key>O</key>
-	<string>O_.glif</string>
+	<string>o_.glif</string>
 	<key>J</key>
-	<string>J_.glif</string>
+	<string>j_.glif</string>
 	<key>K</key>
-	<string>K_.glif</string>
+	<string>k_.glif</string>
 	<key>L</key>
-	<string>L_.glif</string>
+	<string>l_.glif</string>
 	<key>M</key>
-	<string>M_.glif</string>
+	<string>m_.glif</string>
 	<key>N</key>
-	<string>N_.glif</string>
+	<string>n_.glif</string>
 	<key>T</key>
-	<string>T_.glif</string>
+	<string>t_.glif</string>
 	<key>P</key>
-	<string>P_.glif</string>
+	<string>p_.glif</string>
 	<key>Q</key>
-	<string>Q_.glif</string>
+	<string>q_.glif</string>
 	<key>R</key>
-	<string>R_.glif</string>
+	<string>r_.glif</string>
 	<key>S</key>
-	<string>S_.glif</string>
+	<string>s_.glif</string>
 	<key>V</key>
-	<string>V_.glif</string>
+	<string>v_.glif</string>
 	<key>W</key>
-	<string>W_.glif</string>
+	<string>w_.glif</string>
 	<key>X</key>
-	<string>X_.glif</string>
+	<string>x_.glif</string>
 	<key>U</key>
-	<string>U_.glif</string>
+	<string>u_.glif</string>
 	<key>Y</key>
-	<string>Y_.glif</string>
+	<string>y_.glif</string>
 	<key>Z</key>
-	<string>Z_.glif</string>
+	<string>z_.glif</string>
 	<key>u1F422</key>
-	<string>u1F_422.glif</string>
+	<string>u1f_422.glif</string>
     </dict>
 </plist>
