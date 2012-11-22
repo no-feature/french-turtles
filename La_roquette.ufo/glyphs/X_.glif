@@ -5,9 +5,10 @@
   <outline>
     <contour>
       <point x="0" y="800" type="move"/>
-      <point x="800.557" y="-0.556641" type="line"/>
-      <point x="400.278" y="399.722" type="line"/>
-      <point x="800.557" y="800" type="line"/>
+      <point x="501" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="799.388" type="move"/>
       <point x="0" y="-0.556641" type="line"/>
     </contour>
   </outline>
