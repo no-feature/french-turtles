@@ -2,7 +2,7 @@
 
 @GDEF_Simple = [\zero \one \three \two \four \five \six \nine \eight \question \hyphen 
 	\seven \C \parenright \ampersand \A \B \D \G \F \H \I \E \O \J \K \L \M \N \T \P \Q \R \S \V \W 
-	\X \U \Y \Z \u1F422 ];
+	\X \U \Y \Z \u1F422 \space ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
