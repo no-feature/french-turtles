@@ -27,62 +27,68 @@
 	<key>seven</key>
 	<string>seven.glif</string>
 	<key>C</key>
-	<string>c_.glif</string>
+	<string>C_.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>A</key>
-	<string>a_.glif</string>
+	<string>A_.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>D</key>
-	<string>d_.glif</string>
+	<string>D_.glif</string>
 	<key>G</key>
-	<string>g_.glif</string>
+	<string>G_.glif</string>
 	<key>F</key>
-	<string>f_.glif</string>
+	<string>F_.glif</string>
 	<key>H</key>
-	<string>h_.glif</string>
+	<string>H_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
 	<key>E</key>
-	<string>e_.glif</string>
+	<string>E_.glif</string>
 	<key>O</key>
-	<string>o_.glif</string>
+	<string>O_.glif</string>
 	<key>J</key>
-	<string>j_.glif</string>
+	<string>J_.glif</string>
 	<key>K</key>
 	<string>K_.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
 	<key>M</key>
-	<string>m_.glif</string>
+	<string>M_.glif</string>
 	<key>N</key>
-	<string>n_.glif</string>
+	<string>N_.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
 	<key>P</key>
-	<string>p_.glif</string>
+	<string>P_.glif</string>
 	<key>Q</key>
-	<string>q_.glif</string>
+	<string>Q_.glif</string>
 	<key>R</key>
-	<string>r_.glif</string>
+	<string>R_.glif</string>
 	<key>S</key>
-	<string>s_.glif</string>
+	<string>S_.glif</string>
 	<key>V</key>
-	<string>v_.glif</string>
+	<string>V_.glif</string>
 	<key>W</key>
-	<string>w_.glif</string>
+	<string>W_.glif</string>
 	<key>X</key>
 	<string>X_.glif</string>
 	<key>U</key>
-	<string>u_.glif</string>
+	<string>U_.glif</string>
 	<key>Y</key>
-	<string>y_.glif</string>
+	<string>Y_.glif</string>
 	<key>Z</key>
-	<string>z_.glif</string>
+	<string>Z_.glif</string>
 	<key>u1F422</key>
-	<string>u1f_422.glif</string>
+	<string>u1F_422.glif</string>
+	<key>bracketleft</key>
+	<string>bracketleft.glif</string>
+	<key>bracketright</key>
+	<string>bracketright.glif</string>
+	<key>backslash</key>
+	<string>backslash.glif</string>
     </dict>
 </plist>
