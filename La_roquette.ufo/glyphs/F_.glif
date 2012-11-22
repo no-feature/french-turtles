@@ -9,7 +9,7 @@
     </contour>
     <contour>
       <point x="0" y="-0" type="move"/>
-      <point x="0" y="502" type="line" smooth="yes"/>
+      <point x="0" y="502" type="line"/>
       <point x="0" y="800" type="line"/>
       <point x="497.779" y="802" type="line"/>
     </contour>

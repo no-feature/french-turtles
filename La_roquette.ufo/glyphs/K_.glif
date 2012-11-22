@@ -12,7 +12,7 @@
       <point x="370.217" y="800" type="line"/>
     </contour>
     <contour>
-      <point x="87.2109" y="544" type="move" smooth="yes"/>
+      <point x="87.2109" y="544" type="move"/>
       <point x="492.421" y="8.8877" type="line"/>
     </contour>
   </outline>
