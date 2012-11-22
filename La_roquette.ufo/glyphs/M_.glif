@@ -4,11 +4,11 @@
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="664.055" y="0" type="move"/>
-      <point x="540.297" y="794.252" type="line"/>
-      <point x="338.055" y="88.002" type="line"/>
-      <point x="140.242" y="800" type="line"/>
-      <point x="0.0546875" y="0" type="line"/>
+      <point x="800.11" y="-3.63477" type="move"/>
+      <point x="604.297" y="794.252" type="line"/>
+      <point x="400.055" y="2.1123" type="line"/>
+      <point x="204.242" y="800" type="line"/>
+      <point x="0" y="7.86035" type="line"/>
     </contour>
   </outline>
 </glyph>
