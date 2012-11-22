@@ -14,7 +14,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="drawing-q.svg">
+   sodipodi:docname="drawing-r.svg">
   <sodipodi:namedview
      inkscape:window-height="624"
      inkscape:window-width="1210"
@@ -27,12 +27,12 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.46024771"
-     inkscape:cx="221.58416"
+     inkscape:zoom="0.37"
+     inkscape:cx="-254.09152"
      inkscape:cy="426.86655"
      inkscape:window-x="0"
      inkscape:window-y="30"
-     inkscape:current-layer="g7452"
+     inkscape:current-layer="layer1"
      inkscape:window-maximized="0">
     <sodipodi:guide
        id="guide5596"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -97,7 +97,7 @@
          id="tspan7370"
          y="200.15211"
          x="-516.55475"
-         sodipodi:role="line">forward(85)</tspan><tspan
+         sodipodi:role="line">forward(800)</tspan><tspan
          id="tspan7372"
          y="250.15211"
          x="-516.55475"
@@ -105,55 +105,55 @@
          id="tspan7374"
          y="300.1521"
          x="-516.55475"
-         sodipodi:role="line">forward(30)</tspan><tspan
-         id="tspan7376"
+         sodipodi:role="line">forward(300)</tspan><tspan
+         id="tspan3818"
          y="350.1521"
          x="-516.55475"
          sodipodi:role="line">right(45)</tspan><tspan
-         id="tspan7378"
+         id="tspan3820"
          y="400.1521"
          x="-516.55475"
-         sodipodi:role="line">forward(20)</tspan><tspan
-         id="tspan7380"
+         sodipodi:role="line">forward(180)</tspan><tspan
+         id="tspan3822"
          y="450.1521"
          x="-516.55475"
          sodipodi:role="line">right(45)</tspan><tspan
-         id="tspan7382"
+         id="tspan3824"
          y="500.1521"
          x="-516.55475"
-         sodipodi:role="line">forward(20)</tspan><tspan
-         id="tspan7384"
+         sodipodi:role="line">forward(200)</tspan><tspan
+         id="tspan3826"
          y="550.1521"
          x="-516.55475"
          sodipodi:role="line">right(45)</tspan><tspan
-         id="tspan7386"
+         id="tspan3828"
          y="600.1521"
          x="-516.55475"
-         sodipodi:role="line">forward(20)</tspan><tspan
-         id="tspan7388"
+         sodipodi:role="line">forward(180)</tspan><tspan
+         id="tspan7398"
          y="650.1521"
          x="-516.55475"
          sodipodi:role="line">right(45)</tspan><tspan
-         id="tspan7390"
+         id="tspan4142"
          y="700.1521"
          x="-516.55475"
-         sodipodi:role="line">forward(30)</tspan><tspan
-         id="tspan7392"
+         sodipodi:role="line">forward(300)</tspan><tspan
+         id="tspan4144"
          y="750.1521"
          x="-516.55475"
          sodipodi:role="line">right(180)</tspan><tspan
-         id="tspan7394"
+         id="tspan4146"
          y="800.1521"
          x="-516.55475"
-         sodipodi:role="line">forward(30)</tspan><tspan
-         id="tspan7396"
+         sodipodi:role="line">forward(300)</tspan><tspan
+         id="tspan4148"
          y="850.1521"
          x="-516.55475"
-         sodipodi:role="line">right(45)</tspan><tspan
-         id="tspan7398"
+         sodipodi:role="line">right(55)</tspan><tspan
+         id="tspan4150"
          y="900.1521"
          x="-516.55475"
-         sodipodi:role="line">forward(52)</tspan><tspan
+         sodipodi:role="line">forward(420)</tspan><tspan
          id="tspan7400"
          y="950.1521"
          x="-516.55475"
@@ -234,11 +234,59 @@
   <g
      id="g7452"
      inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g3081" />
+  <g
+     id="g3348"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g3478" />
+  <g
+     id="g3611"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g3747" />
+  <g
+     id="g3905"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g4061" />
+  <g
+     id="g4234"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g4404" />
+  <g
+     id="g4573"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g5519" />
+  <g
+     id="g5689"
+     inkscape:groupmode="layer"
      inkscape:label="Seymour Output">
     <path
-       id="path7454"
-       d="m 99.944963,899.5805 0,-799.42839 282.151187,0 133.00736,133.00736 0,188.10079 -133.00736,133.00734 -282.151187,0 282.151187,0 345.81911,345.81911"
-       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path5691"
+       d="m 99.945154,899.77974 0,-800 299.999996,0 127.2792,127.27922 0,200 -127.2792,127.27922 -299.999996,0 299.999996,0 240.9021,344.04386"
+       style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
