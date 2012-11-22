@@ -9,34 +9,52 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
-   id="svg2"
+   width="1000"
+   height="1000"
+   id="svg3004"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="drawing_x.svg">
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:window-height="758"
+     inkscape:window-width="1107"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-182.84822"
-     inkscape:cy="469.08332"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
      showgrid="false"
-     inkscape:window-width="1363"
-     inkscape:window-height="816"
-     inkscape:window-x="6"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0" />
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.40223304"
+     inkscape:cx="309.83194"
+     inkscape:cy="626.03268"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:current-layer="g5751"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="3.1150078,99.680251"
+       id="guide5596" />
+    <sodipodi:guide
+       id="guide3233"
+       position="99.680251,957.08616"
+       orientation="1,0" />
+    <sodipodi:guide
+       id="guide3235"
+       position="18.690047,900.23727"
+       orientation="0,1" />
+    <sodipodi:guide
+       id="guide3237"
+       position="900.23727,868.30844"
+       orientation="1,0" />
+  </sodipodi:namedview>
   <defs
-     id="defs4" />
+     id="defs5498" />
   <metadata
-     id="metadata7">
+     id="metadata5594">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -48,87 +66,52 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-444.28571"
-       y="1012.3622"
-       id="text3525"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3527"
-         x="-444.28571"
-         y="1012.3622" /><tspan
-         sodipodi:role="line"
-         id="tspan3529"
-         x="-444.28571"
-         y="1062.3622" /></text>
+     id="layer1" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g3170">
     <flowRoot
-       transform="translate(1282.8571,37.142857)"
        xml:space="preserve"
-       id="flowRoot5135"
+       id="flowRoot4529"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
-         id="flowRegion5137"><rect
-           id="rect5139"
-           width="657.14288"
-           height="1345.7142"
-           x="-1685.7142"
-           y="-13.352103" /></flowRegion><flowPara
-         id="flowPara5141">pendown()</flowPara><flowPara
-         id="flowPara5335">right(68)</flowPara><flowPara
-         id="flowPara5147">forward(300)</flowPara><flowPara
-         id="flowPara5151">left(135)</flowPara><flowPara
-         id="flowPara5155">forward(300)</flowPara><flowPara
-         id="flowPara5157">right(135)</flowPara><flowPara
-         id="flowPara5159">forward(300)</flowPara><flowPara
-         id="flowPara5161">left(135)</flowPara><flowPara
-         id="flowPara5163">forward(300)</flowPara><flowPara
-         id="flowPara5165">penup()</flowPara></flowRoot>  </g>
+         id="flowRegion4531"><rect
+           id="rect4533"
+           width="492.17123"
+           height="984.34247"
+           x="-432.98608"
+           y="155.83287" /></flowRegion><flowPara
+         id="flowPara4539">pendown()</flowPara><flowPara
+         id="flowPara5271">right(68)</flowPara><flowPara
+         id="flowPara4683">forward(30)</flowPara><flowPara
+         id="flowPara4543">left(135)</flowPara><flowPara
+         id="flowPara4545">forward(30)</flowPara><flowPara
+         id="flowPara4547">right(135)</flowPara><flowPara
+         id="flowPara4549">forward(30)</flowPara><flowPara
+         id="flowPara4551">left(135)</flowPara><flowPara
+         id="flowPara4553">forward(30)</flowPara><flowPara
+         id="flowPara4555">penup()</flowPara><flowPara
+         id="flowPara4541" /></flowRoot>  </g>
   <g
-     id="g3031"
+     id="g4069"
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output" />
   <g
      inkscape:label="Seymour Output"
      inkscape:groupmode="layer"
-     id="g3069" />
+     id="g4166" />
   <g
-     id="g3216"
+     id="g4265"
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output" />
   <g
      inkscape:label="Seymour Output"
      inkscape:groupmode="layer"
-     id="g3332" />
+     id="g4402" />
   <g
-     id="g3455"
-     inkscape:groupmode="layer"
-     inkscape:label="Seymour Output" />
-  <g
-     inkscape:label="Seymour Output"
-     inkscape:groupmode="layer"
-     id="g3595" />
-  <g
-     id="g3727"
-     inkscape:groupmode="layer"
-     inkscape:label="Seymour Output" />
-  <g
-     inkscape:label="Seymour Output"
-     inkscape:groupmode="layer"
-     id="g3864" />
-  <g
-     id="g3979"
-     inkscape:groupmode="layer"
-     inkscape:label="Seymour Output" />
-  <g
-     inkscape:label="Seymour Output"
-     inkscape:groupmode="layer"
-     id="g4099" />
-  <g
-     id="g4424"
+     id="g4491"
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output" />
   <g
@@ -136,45 +119,69 @@
      inkscape:groupmode="layer"
      id="g4586" />
   <g
-     id="g4761"
+     id="g4650"
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output" />
   <g
      inkscape:label="Seymour Output"
      inkscape:groupmode="layer"
-     id="g4909" />
+     id="g4716" />
   <g
-     id="g5055"
+     id="g4783"
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output" />
   <g
      inkscape:label="Seymour Output"
      inkscape:groupmode="layer"
-     id="g5249" />
+     id="g4852" />
   <g
-     id="g5374"
+     id="g4923"
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output" />
   <g
      inkscape:label="Seymour Output"
      inkscape:groupmode="layer"
-     id="g5453" />
+     id="g4996" />
   <g
-     id="g6302"
+     id="g5071"
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output" />
   <g
      inkscape:label="Seymour Output"
      inkscape:groupmode="layer"
-     id="g6385" />
+     id="g5149" />
   <g
-     id="g6470"
+     id="g5229"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g5314" />
+  <g
+     id="g5398"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g5484" />
+  <g
+     id="g5571"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output" />
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g5660" />
+  <g
+     id="g5751"
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output">
     <path
-       id="path6472"
-       d="M 140.61868,409.03824 253.00064,687.19337 370.21998,411.04194 482.60196,689.19707 599.8213,413.04564"
-       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5753"
+       d="M 108.54409,104.05836 302.29747,895.94831 504.39067,109.76273 698.14406,901.65272 900.23727,115.46716"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
