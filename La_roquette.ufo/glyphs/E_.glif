@@ -4,15 +4,21 @@
   <unicode hex="0045"/>
   <outline>
     <contour>
+      <point x="226.453" y="502" type="move"/>
+      <point x="0" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="502" type="move" smooth="yes"/>
+    </contour>
+    <contour>
       <point x="0" y="0.37207" type="move"/>
-      <point x="500.813" y="0.37207" type="line"/>
+      <point x="449.906" y="0" type="line"/>
       <point x="0" y="0.37207" type="line"/>
-      <point x="0" y="500.187" type="line"/>
-      <point x="299.86" y="500.187" type="line"/>
+      <point x="0" y="800" type="line"/>
     </contour>
     <contour>
       <point x="0" y="800" type="move"/>
-      <point x="499.813" y="800" type="line"/>
+      <point x="449.906" y="799" type="line"/>
     </contour>
   </outline>
 </glyph>
