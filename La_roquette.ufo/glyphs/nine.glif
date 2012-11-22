@@ -27,7 +27,7 @@
       <point x="4.72266" y="685.072" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="0.861328" y="581.838" type="move"/>
+      <point x="0.861328" y="581.838" type="move" smooth="yes"/>
     </contour>
     <contour>
       <point x="4.72266" y="685.072" type="move"/>
@@ -39,10 +39,10 @@
       <point x="335.277" y="685.072" type="line"/>
     </contour>
     <contour>
-      <point x="339.139" y="684.162" type="move"/>
+      <point x="339.139" y="684.162" type="move" smooth="yes"/>
     </contour>
     <contour>
-      <point x="171" y="469" type="move"/>
+      <point x="171" y="469" type="move" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
