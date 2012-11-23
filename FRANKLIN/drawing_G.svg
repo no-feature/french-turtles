@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg35597"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="drawing_G.svg">
+  <sodipodi:namedview
+     inkscape:window-height="618"
+     inkscape:window-width="721"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.454"
+     inkscape:cx="500"
+     inkscape:cy="588.10573"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:current-layer="g35984"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       id="guide5596"
+       position="200"
+       orientation="horizontal" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498" />
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1" />
+  <g
+     id="g35697"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output">
+    <flowRoot
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       id="flowRoot35892"
+       xml:space="preserve"><flowRegion
+         id="flowRegion35894"><rect
+           y="37.444935"
+           x="-314.97797"
+           height="691.62994"
+           width="176.21146"
+           id="rect35896" /></flowRegion><flowPara
+         id="flowPara35898">pendown()</flowPara><flowPara
+         id="flowPara35900">left(120)</flowPara><flowPara
+         id="flowPara35902">left(30)</flowPara><flowPara
+         id="flowPara35904">forward(20)</flowPara><flowPara
+         id="flowPara35906">left(30)</flowPara><flowPara
+         id="flowPara35908">forward(20)</flowPara><flowPara
+         id="flowPara35910">left(30)</flowPara><flowPara
+         id="flowPara35912">forward(20)</flowPara><flowPara
+         id="flowPara35914">left(30)</flowPara><flowPara
+         id="flowPara35916">forward(20)</flowPara><flowPara
+         id="flowPara35918">left(30)</flowPara><flowPara
+         id="flowPara35920">forward(20)</flowPara><flowPara
+         id="flowPara35922">left(30)</flowPara><flowPara
+         id="flowPara35924">forward(20)</flowPara><flowPara
+         id="flowPara35926">left(30)</flowPara><flowPara
+         id="flowPara35928">forward(20)</flowPara><flowPara
+         id="flowPara35930">left(30)</flowPara><flowPara
+         id="flowPara35932">forward(20)</flowPara><flowPara
+         id="flowPara35934">left(30)</flowPara><flowPara
+         id="flowPara35936">forward(20)</flowPara><flowPara
+         id="flowPara35938">left(60)</flowPara><flowPara
+         id="flowPara35940">forward(20)</flowPara><flowPara
+         id="flowPara35942">left(90)</flowPara><flowPara
+         id="flowPara35944">forward(20)</flowPara><flowPara
+         id="flowPara35946">penup()</flowPara></flowRoot>  </g>
+  <g
+     inkscape:label="Seymour Output"
+     inkscape:groupmode="layer"
+     id="g35837" />
+  <g
+     id="g35984"
+     inkscape:groupmode="layer"
+     inkscape:label="Seymour Output">
+    <path
+       id="path35986"
+       d="M 833.04424,115.00207 649.81874,9.2167964 l -211.57053,0 -183.22549,105.7852736 -105.78528,183.22539 0,211.57054 105.78528,183.22549 183.22549,105.78528 211.57053,0 183.2255,-105.78528 0,-211.57055 -211.57054,0"
+       style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
