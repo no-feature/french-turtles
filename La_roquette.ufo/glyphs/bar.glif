@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotesingle" format="1">
+<glyph name="bar" format="1">
   <advance width="1000"/>
-  <unicode hex="0027"/>
+  <unicode hex="007C"/>
   <outline>
     <contour>
       <point x="0" y="800" type="move"/>
-      <point x="0" y="601" type="line"/>
+      <point x="0" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
