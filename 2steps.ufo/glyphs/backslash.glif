@@ -4,8 +4,8 @@
   <unicode hex="005C"/>
   <outline>
     <contour>
-      <point x="213.5" y="0" type="move"/>
-      <point x="-0.0263672" y="796.889" type="line"/>
+      <point x="219.5" y="0" type="move"/>
+      <point x="5.97363" y="796.889" type="line"/>
     </contour>
   </outline>
 </glyph>
