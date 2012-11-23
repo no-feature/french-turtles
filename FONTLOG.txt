@@ -1,0 +1,589 @@
+
+FRENCH TURTLES FONTLOG
+The history of these typefaces
+
+generated from the GIT source repository
+
+For more info on authors, licensing: see OFL.txt
+
+
+commit 67ae2b8cbbb2546e771c9e0ce69f0c40e26bf884
+Author: Eric Schrijver <eric@ericschrijver.nl>
+Date:   Tue Oct 23 15:50:34 2012 +0200
+
+    The P dans notre petite phrase tortoise
+    
+    ( we performed them as human turtles,
+    we will try to have them be performed by the
+    computer! )
+
+commit d0827dc7b0d6c92fd67123c8096d9d7d882aeb60
+Author: Alice <alice.jauneau@gmail.com>
+Date:   Tue Oct 23 15:57:44 2012 +0200
+
+    Nous avons ajouté la lettre N.
+
+commit 8c78b23823ca17f1816b628589d79aa1e0e5b935
+Author: Margot <margot.baran@gmail.com>
+Date:   Tue Oct 23 16:01:44 2012 +0200
+
+    instructions pour un U
+
+commit 52625237730d745994e5e47bf089f6669b3c4769
+Merge: 8c78b23 d0827dc
+Author: Margot <margot.baran@gmail.com>
+Date:   Tue Oct 23 16:03:15 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit 08bee6632337bdc6fac79da40d321a70d3cab686
+Author: Vincent <vincent@vincent-VirtualBox.(none)>
+Date:   Tue Oct 23 16:07:42 2012 +0200
+
+    ajout du fichier O
+
+commit 6eba80464f9853ce0d839a14d9352aa574197260
+Author: Your Name Here <cami.chatelaine@gmail.com>
+Date:   Tue Oct 23 16:10:59 2012 +0200
+
+    w of upndown for osp's workshop
+
+commit 3bbc00fc391f042b46d7bb606f3e918019c5e49d
+Author: Anaïs <anais_alauzen@hotmail.fr>
+Date:   Tue Oct 23 16:16:30 2012 +0200
+
+    esperluette
+
+commit 87eb06ed5cc803f3a8fb6be821f142ad22accfb2
+Merge: 6eba804 5262523
+Author: Your Name Here <cami.chatelaine@gmail.com>
+Date:   Tue Oct 23 16:37:26 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit 382ae1519c257496bdc94cffe4afa8d88786f584
+Merge: 87eb06e de9d973
+Author: Your Name Here <cami.chatelaine@gmail.com>
+Date:   Tue Oct 23 16:42:16 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit f88a854854998f2197f0cb87de972dabed56ccdd
+Merge: 382ae15 b22703a
+Author: Your Name Here <cami.chatelaine@gmail.com>
+Date:   Tue Oct 23 16:47:30 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit de9d9736fbaf153d4f4dc7290f83eb372e1749ad
+Merge: 08bee66 5262523
+Author: Vincent <vincent@vincent-VirtualBox.(none)>
+Date:   Tue Oct 23 16:49:39 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit e17a18aa9e0f978c83cd61e131348c8dc2c854c0
+Merge: 3bbc00f 5262523
+Author: Anaïs <anais_alauzen@hotmail.fr>
+Date:   Tue Oct 23 16:51:08 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit b22703af22e65e1f4a45520baa0bd0552308cf1d
+Merge: e17a18a de9d973
+Author: Anaïs <anais_alauzen@hotmail.fr>
+Date:   Tue Oct 23 17:00:26 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit f67f4bbfdbbb18f9d1148a01779bbff801562a19
+Author: jordane <jordane65@gmail.com>
+Date:   Tue Oct 23 17:21:00 2012 +0200
+
+    ajout de fichier d'instruction pour le D de Up pen down, je pars en pose quand
+    tout le monde revient, je suis très heureuse, ma vie est belle
+
+commit 01becc936106f0eb119858cffffa653b199dafeb
+Author: Stéphanie Vilayphiou <stephanie@stdin.fr>
+Date:   Wed Oct 24 11:05:18 2012 +0200
+
+    test SVG
+
+commit 43afe74746e9cef35a03b35bb260fa8f87b6da6b
+Author: Stéphanie Vilayphiou <stephanie@stdin.fr>
+Date:   Wed Oct 24 11:09:29 2012 +0200
+
+    tentative d'un svg qui va rassembler tous les svg des loulous
+
+commit fe5ca0a1793ccdd05d340197d1d06d7371074e02
+Author: david <erg-libre@erg-libre-VirtualBox.(none)>
+Date:   Wed Oct 24 11:32:53 2012 +0200
+
+    Un a bas de casse un peu chelou
+
+commit 8e5512c8d8b460ca7e61ece148820d6581402436
+Author: gwenael <erg-libre@erg-libre-VirtualBox.(none)>
+Date:   Wed Oct 24 11:37:30 2012 +0200
+
+    Fichier svg avec o et p. à suivre...
+
+commit 5dcfdabdc575dd4bb180f0e54cd812a65e40460b
+Merge: 8e5512c fe5ca0a
+Author: gwenael <erg-libre@erg-libre-VirtualBox.(none)>
+Date:   Wed Oct 24 11:40:31 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit c147aec219b53e5e24f1d84236452a8362949eca
+Author: Alice <alice.jauneau@gmail.com>
+Date:   Wed Oct 24 11:46:11 2012 +0200
+
+    lES LETTRES a ET n
+
+commit 142133a2e4d8bd63a7cf0b11c14c4d1bef2f4e73
+Merge: c147aec 5dcfdab
+Author: Alice <alice.jauneau@gmail.com>
+Date:   Wed Oct 24 11:48:19 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit ddc9ed1a526de5fbbb290cca498dfd44fa5f2a2c
+Merge: f88a854 5dcfdab
+Author: Your Name Here <cami.chatelaine@gmail.com>
+Date:   Wed Oct 24 11:48:57 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit d9ed31ac8729b903e88fd98ad09dc273c082cd8a
+Author: Your Name Here <cami.chatelaine@gmail.com>
+Date:   Wed Oct 24 11:49:51 2012 +0200
+
+    drawing W
+
+commit f47172c87205db4517717193a357ed874a15fae8
+Author: Margot <margot.baran@gmail.com>
+Date:   Wed Oct 24 11:53:44 2012 +0200
+
+    Tentative de dessin d'un U et d'un Z
+
+commit e6fed0fb603f6215a6b0042ec4bbb9da97f83032
+Merge: 142133a f47172c
+Author: Alice <alice.jauneau@gmail.com>
+Date:   Wed Oct 24 11:56:24 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit b3e1e8b1c2bb7e62a5b5d6954e22680ebe7e2d7a
+Author: Lorene <lorene.ceccon@esad-gv.fr>
+Date:   Wed Oct 24 12:12:13 2012 +0200
+
+    lettre A et N
+
+commit 59df5926a9299e361b52a61bd85708b2b55dff11
+Author: Margot <margot.baran@gmail.com>
+Date:   Wed Oct 24 12:24:22 2012 +0200
+
+    U
+
+commit d22c05e834bf485a16c84bf5c2bda042561120fc
+Author: Margot <margot.baran@gmail.com>
+Date:   Wed Oct 24 12:34:41 2012 +0200
+
+    le K
+
+commit c6a7a773a154dd10681f5e4120d16ea9a3ffbdf3
+Author: Margot <margot.baran@gmail.com>
+Date:   Wed Oct 24 12:39:24 2012 +0200
+
+    Le 4
+
+commit 737563c52fafff886a1dca04a4d962c08833b3e0
+Author: Lorene <lorene.ceccon@esad-gv.fr>
+Date:   Wed Oct 24 12:45:19 2012 +0200
+
+    lettre I et lettre T lorene
+
+commit f7d72a5b1d381092f54f2ac3f35a87a1eab581dc
+Merge: 737563c d22c05e
+Author: Lorene <lorene.ceccon@esad-gv.fr>
+Date:   Wed Oct 24 12:46:32 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit 1323f7ba6f8d24c014ccfc4bb3c9150641c99608
+Author: jordane <jordane65@gmail.com>
+Date:   Wed Oct 24 13:02:27 2012 +0200
+
+    lettre D et lettre H
+
+commit f6529b3816fca009d8656d52b834442cc92ecdef
+Merge: 1323f7b e6fed0f
+Author: jordane <jordane65@gmail.com>
+Date:   Wed Oct 24 13:03:48 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit 5be27980fe7a544ce34d63b013652cad0c41f07b
+Author: jordane <jordane65@gmail.com>
+Date:   Wed Oct 24 14:02:59 2012 +0200
+
+    lettre B et C
+
+commit 8cc8652d5dfd272f3e528bb02d2528ec6839fccc
+Merge: 5be2798 c6a7a77
+Author: jordane <jordane65@gmail.com>
+Date:   Wed Oct 24 14:05:26 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit 52608442c987138843c033a429ac2fee791fdfaa
+Merge: f7d72a5 8cc8652
+Author: Lorene <lorene.ceccon@esad-gv.fr>
+Date:   Wed Oct 24 13:25:35 2012 +0200
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit 53ff94c8dc0d21aded74a3e40982d644e0b8466c
+Author: Stéphanie Vilayphiou <stephanie@stdin.fr>
+Date:   Wed Oct 24 13:40:48 2012 +0200
+
+    les lettres en svg
+
+commit ef2e61e8abbb31ddfe7751a20061baea6c094e90
+Author: Stéphanie Vilayphiou <stephanie@stdin.fr>
+Date:   Mon Nov 19 20:37:32 2012 +0100
+
+    missing glyphs
+
+commit 40c1b4476c626f0bfe177ca746fbd217b9321a3a
+Author: Alice <alice.jauneau@gmail.com>
+Date:   Wed Nov 21 10:43:36 2012 +0100
+
+    A ET N
+
+commit 9b89713dfb2b7900d7e61cc3e1aa7e0fdbd098de
+Author: Alice <alice.jauneau@gmail.com>
+Date:   Wed Nov 21 10:47:40 2012 +0100
+
+    Les lettres en svg
+
+commit cff44854b02250434ca151065b70e0809d280677
+Author: Margot <margot.baran@gmail.com>
+Date:   Wed Nov 21 10:52:19 2012 +0100
+
+    pas besoin de ce fichier, deja un autre u dans le git
+
+commit e2b09ae77e79a3a4c1a83bde252ece700be8a7f4
+Author: Vincent <vincent@vincent-VirtualBox.(none)>
+Date:   Wed Oct 24 11:52:14 2012 +0200
+
+    formes aléatoires
+
+commit 45d3e8efd0846f5543d0ac6bbc0c2e6217856717
+Author: Anaïs <anais_alauzen@hotmail.fr>
+Date:   Wed Oct 24 11:58:47 2012 +0200
+
+    esperluette à peu près courbée
+
+commit 8522d499e18dec85af5317193781f84bc558ddec
+Author: Anaïs <anais_alauzen@hotmail.fr>
+Date:   Wed Nov 21 10:51:39 2012 +0100
+
+    j'ajoute un truc
+
+commit ac59dce944f10e04c08192fbd40f3649ece86418
+Author: Lorene <lorene.ceccon@esad-gv.fr>
+Date:   Wed Nov 21 10:54:32 2012 +0100
+
+    lettre T
+
+commit 59f09785a156447c6dbe7d2f714ece21bdb0bcf8
+Author: Ludi <hello@ludi.be>
+Date:   Wed Nov 21 11:28:16 2012 +0100
+
+    real strokes in the font
+
+commit 1f082a50e83483512f8dda610a979fbc8e5dd605
+Merge: 59f0978 ac59dce
+Author: Ludi <hello@ludi.be>
+Date:   Wed Nov 21 11:28:28 2012 +0100
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit d379b1b934525fdab7674e93adaf21056f31d360
+Author: jordane <jordane65@gmail.com>
+Date:   Wed Nov 21 12:44:55 2012 +0100
+
+    lettres jordane
+
+commit 72e282df98775525031e98fe2e9b2242d20c5182
+Author: gwenael <gwenael.fradin@esad-gv.fr>
+Date:   Wed Nov 21 14:25:34 2012 +0100
+
+    Tentative de modification du E
+
+commit 6273079816c9a6299991df929c78f6195e4d9ff9
+Author: gwenael <gwenael.fradin@esad-gv.fr>
+Date:   Wed Nov 21 14:51:44 2012 +0100
+
+    E modifié dans le ufo
+
+commit 735d4d729612389bc6c57ffe1c4124e5501f191f
+Author: gwenael <gwenael.fradin@esad-gv.fr>
+Date:   Wed Nov 21 17:13:20 2012 +0100
+
+    Adding 2steps font
+
+commit b0541fab6badb927dc93f8dba822a596f038e6e1
+Author: gwenael <gwenael.fradin@esad-gv.fr>
+Date:   Wed Nov 21 17:15:54 2012 +0100
+
+    E again !
+
+commit e1f31db98a56a357bd3a3c94c5f4de1bf6dcd40a
+Author: Lorene <lorene.ceccon@esad-gv.fr>
+Date:   Wed Nov 21 17:45:19 2012 +0100
+
+    roquette fonty
+
+commit ef87197615b227cd28c20959c27d290520dd7fdf
+Author: david <erg-libre@erg-libre-VirtualBox.(none)>
+Date:   Wed Nov 21 17:45:44 2012 +0100
+
+    franklin team
+
+commit eecf6417ff9cffff747c16fdac2cfdb91eaea290
+Author: Ludi <hello@ludi.be>
+Date:   Wed Nov 21 17:50:42 2012 +0100
+
+    Here we are again, just a skeleton
+
+commit 1d2aea8dcc67b672e00d6ba6b20462b358ad104e
+Author: gwenael <gwenael.fradin@esad-gv.fr>
+Date:   Thu Nov 22 14:38:42 2012 +0100
+
+    2steps name modified
+
+commit fdbf205692b39bc38fdba500bafba8ca0c93fdef
+Author: Alice <alice.jauneau@gmail.com>
+Date:   Thu Nov 22 14:58:30 2012 +0100
+
+    sfd la rokette
+
+commit 94ca9e5c67cd98e3e8bd3d49321c90f49275e8f8
+Author: vincentd <vincent.duche@esad-gv.fr>
+Date:   Thu Nov 22 15:15:22 2012 +0100
+
+    lettres vincent
+
+commit 0478e9d7bab88b1b5e42233f24f12981ea98340b
+Author: Lorene <lorene.ceccon@esad-gv.fr>
+Date:   Thu Nov 22 15:23:51 2012 +0100
+
+    lettres lorene
+
+commit af861970a5405ad950973726d3b665bd777ce9ce
+Author: Lorene <lorene.ceccon@esad-gv.fr>
+Date:   Thu Nov 22 15:34:01 2012 +0100
+
+    lorene
+
+commit 91165b72e45d9b404b06d766a19badd57478aa45
+Author: Lorene <lorene.ceccon@esad-gv.fr>
+Date:   Thu Nov 22 16:02:26 2012 +0100
+
+    Oeioei duplicate glyph madness
+
+commit 1b1bb95824e671c5e8c1ec9fadb3a6fbfed46f34
+Author: Alice <alice.jauneau@gmail.com>
+Date:   Thu Nov 22 16:08:57 2012 +0100
+
+    Lots of letters of Alice
+
+commit 924e2eae124943d0b674144c4988c7d07d65c861
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 15:27:00 2012 +0100
+
+    nouveau glyph C
+
+commit cca360f8552aac51956dd40a7a997acb5962ff64
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 15:32:01 2012 +0100
+
+    nouveau glyph C
+
+commit 507537052daa0db16c0e28570e10359a021de575
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 16:20:38 2012 +0100
+
+    nouveau glyphs J O Q U
+
+commit c8ff2dbdbf0edf8a5a97b0b7a3b39d8d07d61bdb
+Author: vincentd <vincent.duche@esad-gv.fr>
+Date:   Thu Nov 22 15:56:10 2012 +0100
+
+    lettre M
+
+commit a2d85bbaf3c0479dd30af02a9ee630db7b1c18ce
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 16:39:28 2012 +0100
+
+    ajout nouveaux glif
+
+commit 5f9112a0d80e8e7f2b982a934a2e52534b7454d0
+Author: Ludi <hello@ludi.be>
+Date:   Thu Nov 22 17:15:54 2012 +0100
+
+    a script to brush the hairs of your skeletons
+
+commit 746d122429898b822edfc9dea744bc67353ea6e1
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 17:20:06 2012 +0100
+
+    ajout 6, et B
+
+commit 8add1e8ddf3fb43d9b85edabfe30e9a792d52885
+Merge: 746d122 5f9112a
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 17:21:13 2012 +0100
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit 3efc9b1bd2a71e0fa88561860476d6839507a40d
+Author: gwenael <gwenael.fradin@esad-gv.fr>
+Date:   Thu Nov 22 17:25:17 2012 +0100
+
+    A, B, P, R  modified !
+
+commit b81b192621c63a5b3ba1eddb60374ace4d876348
+Author: John H <john.haltiwanger@gmail.com>
+Date:   Thu Nov 22 17:28:10 2012 +0100
+
+    variable targets
+
+commit 533a918537574dca9ba1417c1749b2a6240e9566
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 17:33:42 2012 +0100
+
+    nouveaux chiffres
+
+commit 49092bd5ac98d3e6e741552e96f7d9bcd4cb193d
+Author: gwenael <gwenael.fradin@esad-gv.fr>
+Date:   Thu Nov 22 17:35:17 2012 +0100
+
+    A, B, P, R skeleton
+
+commit 772cc05473814273e75d2e2bd50414590b2a0e58
+Merge: 533a918 3efc9b1
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 17:36:29 2012 +0100
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit 574d796424323e20f0dc879980146d38206a9190
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 17:53:15 2012 +0100
+
+    l esperluette
+
+commit 55ff866e4b90aa059146f07a0b3444116b827b5b
+Merge: 574d796 8fb8850
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 17:53:46 2012 +0100
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit 8fb88504c7d2ecb67e04c43b18bd7363661c4ae8
+Author: jordane <jordane65@gmail.com>
+Date:   Thu Nov 22 18:49:10 2012 +0100
+
+    change letter 2steps
+
+commit 31091028b56856e6d40c562fd5d1b6c5eddbf96b
+Author: vincentd <vincent.duche@esad-gv.fr>
+Date:   Thu Nov 22 18:02:50 2012 +0100
+
+    2, 6, M
+
+commit 54704678f1bfcbd435cbb6af321209a63ac5a2e6
+Merge: 3109102 55ff866
+Author: vincentd <vincent.duche@esad-gv.fr>
+Date:   Thu Nov 22 18:05:51 2012 +0100
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit 0050807271fecb4f6fc7c84ab99457f8079d4dfb
+Author: Margot <margot.baran@gmail.com>
+Date:   Thu Nov 22 18:06:30 2012 +0100
+
+    integration lettres vincent
+
+commit 6b93d5225c1411c66472639b545b29a81f3906f4
+Author: Lorene <lorene.ceccon@esad-gv.fr>
+Date:   Thu Nov 22 17:16:11 2012 +0100
+
+    W et H petit ajustement
+
+commit 8cc860eb7e6b554562150c86d797520cb0ea0e35
+Author: vincentd <vincent.duche@esad-gv.fr>
+Date:   Thu Nov 22 18:10:28 2012 +0100
+
+    six, two, M, à recopier
+
+commit c57b26d5fbad00bcb57d36f0a533ddd19025f4b7
+Author: Alice <alice.jauneau@gmail.com>
+Date:   Thu Nov 22 18:22:00 2012 +0100
+
+    ? E F
+
+commit 5264dbff8fc5060cc72d4c93461f12b4e84a2010
+Merge: c57b26d 0050807
+Author: Alice <alice.jauneau@gmail.com>
+Date:   Thu Nov 22 18:24:06 2012 +0100
+
+    Merge branch 'master' of git.constantvzw.org:/osp.workshop.up-pen-down
+
+commit af648161bb9bbd37f5c1e001d47938468939dbce
+Author: Eric Schrijver <eric@ericschrijver.nl>
+Date:   Thu Nov 22 23:08:33 2012 +0100
+
+    Clean up
+    
+    remove *.sfd files
+    remove Steph’s pushed alphabet (we use Alice/Camille’s effort)
+    remove first svg files ( idem )
+    move all the turtle efforts into a subfolder
+
+commit 7663a64539ea2ddd83b01aa8286c150e9a2e1ecd
+Author: Eric Schrijver <eric@ericschrijver.nl>
+Date:   Fri Nov 23 00:32:21 2012 +0100
+
+    We make fonts from skeletons with recipes
+    
+    A specific recipe for each font,
+    and a makefile to run them all after each other
+    
+    (to run, type "make" in a terminal
+    in this root folder)
+
+commit 448e45482d0f4756d78e30982fe7d3ecd838a28c
+Author: Eric Schrijver <eric@ericschrijver.nl>
+Date:   Fri Nov 23 01:04:46 2012 +0100
+
+    Add the webby specimen
+    
+    based on no-feature.github.com
+    but yes this can be much more fleshed out!
+
+commit 6f57509342a2d1cd7427d2dc3af44111a6874b13
+Author: Ludi <hello@ludi.be>
+Date:   Fri Nov 23 09:25:35 2012 +0100
+
+    ajout du texte de licence accompagné de sa traduction
+
+commit 224732ef199be6448a21cb9fba35bca722e4375e
+Merge: 6f57509 b81b192
+Author: Ludi <hello@ludi.be>
+Date:   Fri Nov 23 09:25:46 2012 +0100
+
+    Merge branch 'master' of github.com:no-feature/french-turtles

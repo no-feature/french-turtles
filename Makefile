@@ -1,5 +1,8 @@
+fontlog:
+	python FONTLOG.py > FONTLOG.txt
+
 franklin:
-  python franklin.py franklin.ufo franklin.otf
+	python franklin.py franklin.ufo franklin.otf
 
 2steps:
 	python 2steps.py 2steps.ufo 2steps.otf
