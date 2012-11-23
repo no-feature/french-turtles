@@ -84,11 +84,17 @@
 	<string>Z_.glif</string>
 	<key>u1F422</key>
 	<string>u1F_422.glif</string>
+	<key>space</key>
+	<string>space.glif</string>
+	<key>asterisk</key>
+	<string>asterisk.glif</string>
 	<key>bracketleft</key>
 	<string>bracketleft.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
-	<key>backslash</key>
-	<string>backslash.glif</string>
+	<key>asciitilde</key>
+	<string>asciitilde.glif</string>
+	<key>uniE570</key>
+	<string>uniE_570.glif</string>
     </dict>
 </plist>
