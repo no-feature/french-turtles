@@ -80,5 +80,7 @@
 	<string>question.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
+	<key>u1F422</key>
+	<string>u1F_422.glif</string>
     </dict>
 </plist>
