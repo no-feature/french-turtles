@@ -6,19 +6,19 @@
     <contour>
       <point x="357.697" y="792" type="move"/>
       <point x="642.696" y="792" type="line"/>
-      <point x="644.581" y="39.7139" type="line"/>
+      <point x="644.581" y="237.714" type="line"/>
     </contour>
     <contour>
-      <point x="407.374" y="-197.493" type="move"/>
-      <point x="557.757" y="-110.669" type="line"/>
-      <point x="644.581" y="39.7139" type="line"/>
+      <point x="407.374" y="0.506836" type="move"/>
+      <point x="557.757" y="87.3311" type="line"/>
+      <point x="644.581" y="237.714" type="line"/>
     </contour>
     <contour>
-      <point x="-3.48242" y="39.7139" type="move"/>
-      <point x="83.3418" y="-110.669" type="line"/>
-      <point x="233.725" y="-197.493" type="line"/>
-      <point x="407.374" y="-197.493" type="line"/>
-      <point x="233.725" y="-197.493" type="line"/>
+      <point x="-3.48242" y="237.714" type="move"/>
+      <point x="83.3418" y="87.3311" type="line"/>
+      <point x="233.725" y="0.506836" type="line"/>
+      <point x="407.374" y="0.506836" type="line"/>
+      <point x="233.725" y="0.506836" type="line"/>
     </contour>
   </outline>
 </glyph>
