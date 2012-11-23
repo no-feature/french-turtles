@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>La Roquette Heavy</string>
+	<key>styleName</key>
+	<string>Heavy</string>
+	<key>copyright</key>
+	<string>Created by Alice/Vincent/Margot/Lorene, with FontForge 2.0 (http://fontforge.sf.net)</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>xHeight</key>
+	<integer>502</integer>
+	<key>capHeight</key>
+	<integer>802</integer>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string>2012-11-21: Created.</string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/10/23 15:45:49</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 001.000</string>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>500</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>PfEd</string>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>800</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>200</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>90</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>800</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>-72</integer>
+	<key>postscriptFontName</key>
+	<string>La_roquetteheavy</string>
+	<key>postscriptFullName</key>
+	<string>La Roquette Heavy</string>
+	<key>postscriptWeightName</key>
+	<string>Heavy</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+    </dict>
+</plist>

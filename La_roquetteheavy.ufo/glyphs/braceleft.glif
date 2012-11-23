@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="1">
+  <advance width="1000"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="183.591" y="-1.79199" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="183.5" y="801" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="183.5" y="801" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="183.5" y="801" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="184.5" y="2.06934" type="move"/>
+      <point x="102.653" y="57.208" type="line"/>
+      <point x="45.2949" y="139.124" type="line"/>
+      <point x="44.4688" y="358.208" type="line"/>
+      <point x="0.46875" y="400.208" type="line"/>
+      <point x="47.4688" y="439.208" type="line"/>
+      <point x="45.2949" y="669.085" type="line"/>
+      <point x="102.653" y="751" type="line"/>
+      <point x="183.5" y="801" type="line"/>
+    </contour>
+  </outline>
+</glyph>
