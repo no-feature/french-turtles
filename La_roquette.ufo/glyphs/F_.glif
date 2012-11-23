@@ -15,8 +15,11 @@
     </contour>
     <contour>
       <point x="0" y="0.37207" type="move"/>
-      <point x="0.00390625" y="799.996" type="line"/>
-      <point x="449.906" y="800" type="line"/>
+      <point x="0" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="800" type="move"/>
+      <point x="449.906" y="799" type="line"/>
     </contour>
   </outline>
 </glyph>

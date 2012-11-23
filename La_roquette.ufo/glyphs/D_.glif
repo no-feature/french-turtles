@@ -4,18 +4,37 @@
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="0.000976562" y="0.444336" type="line"/>
-      <point x="0" y="801.388" type="line" smooth="yes"/>
-      <point x="0" y="801.249"/>
-      <point x="257.521" y="797.613"/>
-      <point x="257.521" y="797.613" type="curve"/>
-      <point x="356" y="780.249" type="line"/>
+      <point x="264.466" y="1.67969" type="move" smooth="yes"/>
+      <point x="263" y="0"/>
+      <point x="0" y="-0.556641"/>
+      <point x="0" y="-0.556641" type="curve"/>
+      <point x="0" y="801.388" type="line"/>
+    </contour>
+    <contour>
+      <point x="500" y="158.249" type="move" smooth="yes"/>
+      <point x="506" y="165.249"/>
+      <point x="493.055" y="641.044"/>
+      <point x="493.055" y="641.044" type="curve"/>
       <point x="437.916" y="722.891" type="line"/>
-      <point x="493.055" y="641.044" type="line"/>
-      <point x="493" y="157.5" type="line"/>
+      <point x="356" y="780.249" type="line"/>
+      <point x="257.521" y="797.613" type="line"/>
+      <point x="257.521" y="797.613"/>
+      <point x="0" y="801.249"/>
+      <point x="0" y="801.388" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="500" y="158.249" type="move"/>
       <point x="444.861" y="76.4023" type="line"/>
       <point x="362.945" y="19.0439" type="line"/>
+<<<<<<< HEAD
       <point x="264.167" y="-0.00195312" type="line"/>
+=======
+      <point x="264.466" y="1.67969" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="801.388" type="move"/>
+      <point x="0" y="-0.556641" type="line"/>
+>>>>>>> bc0d7bfc505f6e1b886429c5c363d419604df85a
     </contour>
   </outline>
   <lib>

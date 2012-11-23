@@ -10,20 +10,24 @@
       <point x="230.938" y="12.1562" type="line"/>
       <point x="288.277" y="52.3066" type="line"/>
       <point x="331.277" y="112.928" type="line"/>
-      <point x="335.277" y="685.072" type="line"/>
+      <point x="331.277" y="112.928"/>
+      <point x="337.001" y="686"/>
+      <point x="335.277" y="685.072" type="curve"/>
       <point x="300.277" y="745.693" type="line"/>
       <point x="242.936" y="785.844" type="line"/>
       <point x="174" y="798" type="line"/>
       <point x="105.062" y="785.844" type="line"/>
       <point x="47.7227" y="745.693" type="line"/>
-      <point x="-0.277344" y="685.072" type="line"/>
-      <point x="0" y="570" type="line"/>
+      <point x="2.72266" y="685.072" type="line"/>
+      <point x="-2" y="681"/>
+      <point x="0" y="570"/>
+      <point x="0" y="570" type="curve"/>
       <point x="39.7227" y="520.307" type="line"/>
       <point x="97.0645" y="480.156" type="line"/>
       <point x="164" y="458" type="line"/>
       <point x="234.938" y="480.156" type="line"/>
       <point x="292.277" y="520.307" type="line"/>
-      <point x="334" y="567" type="line"/>
+      <point x="336" y="568" type="line"/>
     </contour>
   </outline>
 </glyph>
