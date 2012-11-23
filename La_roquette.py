@@ -12,7 +12,7 @@ for glyph in font.glyphs():
     # ("eliptical",width,minor-width,angle[,linecap,linejoin,flags])
     # ("caligraphic",width,height,angle[,flags])
     # ("polygonal",contour[,flags])
-    glyph.stroke("circular", 50, "square", "round")
+    glyph.stroke("caligraphic",80,20,45)
 
 font.generate(sys.argv[2])
 
