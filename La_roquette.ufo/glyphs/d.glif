@@ -28,7 +28,7 @@
       <point x="335.5" y="285"/>
     </contour>
     <contour>
-      <point x="164.5" y="19" type="move"/>
+      <point x="164.5" y="19" type="move" smooth="yes"/>
     </contour>
     <contour>
       <point x="334.639" y="131.838" type="move" smooth="yes"/>

@@ -15,7 +15,7 @@
       <point x="493" y="157.5" type="line"/>
       <point x="444.861" y="76.4023" type="line"/>
       <point x="362.945" y="19.0439" type="line"/>
-      <point x="264.167" y="-0.00195312" type="line" smooth="yes"/>
+      <point x="264.167" y="-0.00195312" type="line"/>
     </contour>
   </outline>
   <lib>
