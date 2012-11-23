@@ -10,6 +10,8 @@
 	<string>Created by Alice/Vincent/Margot/Lorene, with FontForge 2.0 (http://fontforge.sf.net)</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
+	<key>xHeight</key>
+	<integer>502</integer>
 	<key>capHeight</key>
 	<integer>802</integer>
 	<key>ascender</key>
@@ -21,7 +23,7 @@
 	<key>note</key>
 	<string>2012-11-21: Created.</string>
 	<key>openTypeHeadCreated</key>
-	<string>2012/10/23 10:56:47</string>
+	<string>2012/10/23 14:14:41</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 001.000</string>
 	<key>openTypeOS2WidthClass</key>
