@@ -111,7 +111,7 @@
       <point x="432.334" y="446.98" type="line"/>
       <point x="440.581" y="493.752" type="line"/>
       <point x="440.581" y="541.244" type="line"/>
-      <point x="432.334" y="588.015" type="line" smooth="yes"/>
+      <point x="432.334" y="588.015" type="line"/>
       <point x="429.772" y="595.054" type="line"/>
       <point x="406.024" y="636.184" type="line"/>
       <point x="401.309" y="641.805" type="line"/>
