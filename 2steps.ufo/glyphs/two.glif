@@ -8,18 +8,15 @@
       <point x="570.5" y="-198" type="line"/>
     </contour>
     <contour>
-      <point x="557.757" y="711.043" type="move"/>
-      <point x="407.374" y="797.867" type="line"/>
-      <point x="233.725" y="797.867" type="line"/>
-      <point x="83.3418" y="711.043" type="line"/>
-      <point x="-3.48242" y="560.66" type="line"/>
-    </contour>
-    <contour>
       <point x="233.725" y="-197.493" type="move"/>
       <point x="407.374" y="-197.493" type="line"/>
       <point x="233.725" y="-197.493" type="line"/>
       <point x="102.5" y="-198" type="line"/>
-      <point x="542.874" y="677.441" type="line"/>
+      <point x="557.757" y="711.043" type="line"/>
+      <point x="407.374" y="797.867" type="line"/>
+      <point x="233.725" y="797.867" type="line"/>
+      <point x="83.3418" y="711.043" type="line"/>
+      <point x="-3.48242" y="560.66" type="line"/>
     </contour>
   </outline>
 </glyph>

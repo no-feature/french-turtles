@@ -12,7 +12,7 @@
       <point x="0.0820312" y="800.795" type="line"/>
     </contour>
     <contour>
-      <point x="0.0820312" y="0.43457" type="move"/>
+      <point x="0.0820312" y="0.43457" type="move" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

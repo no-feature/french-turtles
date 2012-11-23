@@ -13,11 +13,8 @@ for glyph in font.glyphs():
     # ("eliptical",width,minor-width,angle[,linecap,linejoin,flags])
     # ("caligraphic",width,height,angle[,flags])
     # ("polygonal",contour[,flags])
-
-    # Parce que maintenant il y a encore des fonts déjà doublé
-    # dedans, on fait pas le stroke (ça cause des soucis autrement)
-    # glyph.stroke("circular", 50, "square", "round")
-    pass
+    glyph.stroke("caligraphic", 150, 80, 45)
+    glyph.stroke("caligraphic", 30, 40, 20)
 
 font.generate(sys.argv[2])
 

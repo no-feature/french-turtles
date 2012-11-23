@@ -86,5 +86,11 @@
 	<string>u1F_422.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
+	<key>comma</key>
+	<string>comma.glif</string>
+	<key>colon</key>
+	<string>colon.glif</string>
+	<key>semicolon</key>
+	<string>semicolon.glif</string>
     </dict>
 </plist>
