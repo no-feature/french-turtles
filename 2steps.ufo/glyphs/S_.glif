@@ -13,7 +13,7 @@
       <point x="651" y="399" type="line"/>
       <point x="453" y="300" type="line"/>
       <point x="186" y="300" type="line"/>
-      <point x="0" y="201" type="line" smooth="yes"/>
+      <point x="0" y="201" type="line"/>
       <point x="-3.48242" y="39.7139" type="line"/>
       <point x="83.3418" y="-110.669" type="line"/>
       <point x="233.725" y="-197.493" type="line"/>

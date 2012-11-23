@@ -5,29 +5,29 @@
   <outline>
     <contour>
       <point x="40" y="-0.510742" type="move"/>
-      <point x="40" y="799.489" type="line"/>
-      <point x="340" y="799.489" type="line"/>
+      <point x="40" y="800.489" type="line"/>
+      <point x="340" y="800.489" type="line"/>
       <point x="467.279" y="672.21" type="line"/>
       <point x="467.279" y="532.21" type="line"/>
-      <point x="340" y="404.931" type="line"/>
-      <point x="20" y="404.931" type="line"/>
-      <point x="340" y="404.931" type="line"/>
-      <point x="467.279" y="277.651" type="line"/>
-      <point x="467.279" y="127.651" type="line"/>
+      <point x="340" y="400.931" type="line"/>
+      <point x="20" y="402.931" type="line"/>
+      <point x="340" y="400.931" type="line"/>
+      <point x="467.279" y="275.651" type="line"/>
+      <point x="467.279" y="125.651" type="line"/>
       <point x="340" y="0.37207" type="line"/>
       <point x="40" y="0.37207" type="line"/>
     </contour>
     <contour>
       <point x="40" y="0" type="move"/>
-      <point x="40" y="800" type="line"/>
-      <point x="340" y="800" type="line"/>
+      <point x="40" y="801" type="line"/>
+      <point x="340" y="801" type="line"/>
       <point x="467.279" y="672.721" type="line"/>
       <point x="467.279" y="532.721" type="line"/>
-      <point x="340" y="405.441" type="line"/>
-      <point x="0" y="405.441" type="line"/>
-      <point x="340" y="405.441" type="line"/>
-      <point x="467.279" y="278.162" type="line"/>
-      <point x="467.279" y="128.162" type="line"/>
+      <point x="340" y="401.441" type="line"/>
+      <point x="0" y="403.441" type="line"/>
+      <point x="340" y="401.441" type="line"/>
+      <point x="467.279" y="276.162" type="line"/>
+      <point x="467.279" y="126.162" type="line"/>
       <point x="340" y="0.882812" type="line"/>
       <point x="40" y="0.882812" type="line"/>
     </contour>
