@@ -2,4 +2,27 @@
 <glyph name="parenright" format="1">
   <advance width="1000"/>
   <unicode hex="0029"/>
+  <outline>
+    <contour>
+      <point x="-3.62207" y="801" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-3.53125" y="-1.79199" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-3.53125" y="-1.79199" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-3.53125" y="-1.79199" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-4.53125" y="797.139" type="move"/>
+      <point x="77.3154" y="742" type="line"/>
+      <point x="134.674" y="660.084" type="line"/>
+      <point x="132.5" y="354" type="line"/>
+      <point x="134.674" y="130.123" type="line"/>
+      <point x="77.3154" y="48.208" type="line"/>
+      <point x="-3.53125" y="-1.79199" type="line"/>
+    </contour>
+  </outline>
 </glyph>

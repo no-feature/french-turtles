@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="1000"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="0" y="7.68555" type="move"/>
+      <point x="0" y="800" type="line"/>
+      <point x="369.671" y="7.23926" type="line"/>
+      <point x="369.671" y="799.554" type="line"/>
+    </contour>
+  </outline>
+</glyph>
