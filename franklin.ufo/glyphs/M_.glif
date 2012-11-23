@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1000"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="285.301" y="309.482" type="move" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="555.166" y="9.48242" type="move"/>
+      <point x="555.166" y="800" type="line"/>
+      <point x="277.583" y="37.3477" type="line"/>
+      <point x="0" y="800" type="line"/>
+      <point x="0" y="9.48242" type="line"/>
+    </contour>
+  </outline>
+</glyph>

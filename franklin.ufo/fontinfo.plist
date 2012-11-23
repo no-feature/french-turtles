@@ -3,15 +3,15 @@
 <plist version="1.0">
     <dict>
 	<key>familyName</key>
-	<string>Untitled1</string>
+	<string>franklin</string>
 	<key>styleName</key>
 	<string>Medium</string>
 	<key>copyright</key>
-	<string>Created by erg-libre,,, with FontForge 2.0 (http://fontforge.sf.net)</string>
+	<string>Created by Ludi,,, with FontForge 2.0 (http://fontforge.sf.net)</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>capHeight</key>
-	<integer>675</integer>
+	<integer>800</integer>
 	<key>ascender</key>
 	<integer>800</integer>
 	<key>descender</key>
@@ -19,15 +19,15 @@
 	<key>italicAngle</key>
 	<real>0</real>
 	<key>note</key>
-	<string>2012-11-21: Created.</string>
+	<string>2012-11-23: Created.</string>
 	<key>openTypeHeadCreated</key>
-	<string>2012/10/21 16:23:47</string>
+	<string>2012/10/23 10:37:55</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 001.000</string>
 	<key>postscriptFontName</key>
-	<string>Untitled1</string>
+	<string>franklin</string>
 	<key>postscriptFullName</key>
-	<string>Untitled1</string>
+	<string>franklin</string>
 	<key>postscriptWeightName</key>
 	<string>Medium</string>
 	<key>postscriptUnderlineThickness</key>
