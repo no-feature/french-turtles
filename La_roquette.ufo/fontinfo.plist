@@ -11,7 +11,7 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>capHeight</key>
-	<integer>800</integer>
+	<integer>802</integer>
 	<key>ascender</key>
 	<integer>800</integer>
 	<key>descender</key>
@@ -21,7 +21,7 @@
 	<key>note</key>
 	<string>2012-11-21: Created.</string>
 	<key>openTypeHeadCreated</key>
-	<string>2012/10/21 16:31:57</string>
+	<string>2012/10/23 10:56:47</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 001.000</string>
 	<key>openTypeOS2WidthClass</key>
