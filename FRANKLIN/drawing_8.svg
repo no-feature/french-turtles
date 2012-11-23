@@ -28,8 +28,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="230.23707"
-     inkscape:cy="762.59005"
+     inkscape:cx="429.59757"
+     inkscape:cy="637.98974"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:current-layer="g37116"
@@ -160,7 +160,7 @@
     <path
        id="path37118"
        d="m 460.10248,800 106.57434,0 92.2961,-53.28718 53.28716,-92.29608 0,-106.57435 -53.28716,-92.2961 -92.2961,-53.28716 -106.57434,0 -92.29609,-53.28718 -53.28718,-92.29609 0,-106.57434 53.28718,-92.29609 92.29609,-53.2871734 106.57434,0 92.2961,53.2871734 53.28716,92.29609 0,106.57434 -53.28716,92.29609 -92.2961,53.28718 -106.57434,0 -92.29609,53.28716 -53.28718,92.2961 0,106.57435 53.28718,92.29608 L 460.10248,800"
-       style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

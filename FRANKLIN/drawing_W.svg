@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1000"
+   width="3000"
    height="1000"
    id="svg35597"
    version="1.1"
@@ -28,7 +28,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.29415642"
-     inkscape:cx="440.26269"
+     inkscape:cx="1065.7802"
      inkscape:cy="426.9203"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -192,8 +192,8 @@
      inkscape:label="Seymour Output">
     <path
        id="path39950"
-       d="M 994.33757,119.20415 746.91173,799.00106 499.4859,119.20415 252.06008,799.00106 4.6342387,119.20415"
-       style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 1929.0642,1.2187755 1638.3316,800 1347.599,1.2187755 1056.8664,800 766.13385,1.2187755"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

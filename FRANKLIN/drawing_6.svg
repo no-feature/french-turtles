@@ -16,8 +16,8 @@
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="drawing_6.svg">
   <sodipodi:namedview
-     inkscape:window-height="618"
-     inkscape:window-width="721"
+     inkscape:window-height="683"
+     inkscape:window-width="960"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -28,8 +28,8 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.32102648"
-     inkscape:cx="230.23707"
-     inkscape:cy="762.59005"
+     inkscape:cx="304.99726"
+     inkscape:cy="637.98974"
      inkscape:window-x="0"
      inkscape:window-y="30"
      inkscape:current-layer="g37367"
@@ -159,7 +159,7 @@
     <path
        id="path37369"
        d="m 559.85617,800 92.5192,-53.41598 53.41598,-92.51918 0,-106.83197 -53.41598,-92.51919 -92.5192,-53.41597 -106.83195,0 -92.51921,53.41597 -53.41597,92.51919 0,106.83197 53.41597,92.51918 92.51921,53.41598 106.83195,0 -106.83195,0 -92.51921,-53.41598 -53.41597,-92.51918 0,-395.27827 0,-106.83196 53.41597,-92.51919 92.51921,-53.4159803 106.83195,0 92.5192,53.4159803 53.41598,92.51919"
-       style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

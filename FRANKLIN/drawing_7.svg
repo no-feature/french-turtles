@@ -14,7 +14,7 @@
    id="svg4439"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="drawing_!.svg">
+   sodipodi:docname="drawing_7.svg">
   <sodipodi:namedview
      inkscape:window-height="642"
      inkscape:window-width="929"
@@ -28,7 +28,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.454"
-     inkscape:cx="500"
+     inkscape:cx="112.3348"
      inkscape:cy="520.70509"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -101,11 +101,6 @@
      id="g10959"
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output">
-    <path
-       id="path10961"
-       d="m 629.94674,0.12754031 -330.97354,0 0,386.13577969 198.58413,0 95.54379,55.16226 55.16224,95.54384 0,110.32451 -55.16224,95.54382 L 497.55733,798 l -110.32451,0 -95.5439,-55.16225"
-       style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       inkscape:connector-curvature="0" />
     <flowRoot
        style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="flowRoot12153"
@@ -124,31 +119,15 @@
   <g
      inkscape:label="Seymour Output"
      inkscape:groupmode="layer"
-     id="g12077">
-    <g
-       style="stroke:none"
-       transform="matrix(9.9614194,0,0,9.9614194,-4483.7145,-4977.6232)"
-       id="g12130">
-      <path
-         inkscape:connector-curvature="0"
-         id="path12079"
-         d="m 500,500 0,60"
-         style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path12081"
-         d="m 500,575 0,5"
-         style="fill:none;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
-  </g>
+     id="g12077" />
   <g
      id="g12216"
      inkscape:groupmode="layer"
      inkscape:label="Seymour Output">
     <path
        id="path12218"
-       d="m 306.98517,3.281899 370.93424,0 L 387.93774,800"
-       style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 318.80896,2.8766127 370.93424,0 L 399.76153,799.59471"
+       style="fill:none;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

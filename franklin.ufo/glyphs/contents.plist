@@ -66,5 +66,19 @@
 	<string>three.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+	<key>five</key>
+	<string>five.glif</string>
+	<key>six</key>
+	<string>six.glif</string>
+	<key>seven</key>
+	<string>seven.glif</string>
+	<key>eight</key>
+	<string>eight.glif</string>
+	<key>nine</key>
+	<string>nine.glif</string>
+	<key>question</key>
+	<string>question.glif</string>
+	<key>exclam</key>
+	<string>exclam.glif</string>
     </dict>
 </plist>

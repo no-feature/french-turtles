@@ -14,7 +14,7 @@
    id="svg4439"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="drawing_?.svg">
   <sodipodi:namedview
      inkscape:window-height="618"
      inkscape:window-width="721"
@@ -28,7 +28,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.454"
-     inkscape:cx="500"
+     inkscape:cx="376.65198"
      inkscape:cy="588.10573"
      inkscape:window-x="0"
      inkscape:window-y="30"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
