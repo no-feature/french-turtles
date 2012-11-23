@@ -10,7 +10,7 @@
       <point x="330.967" y="694.015" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="0.722656" y="112.928" type="move"/>
+      <point x="0.722656" y="112.928" type="move" smooth="yes"/>
       <point x="0" y="112.2"/>
       <point x="0.412109" y="694.015"/>
       <point x="0.412109" y="694.015" type="curve"/>
