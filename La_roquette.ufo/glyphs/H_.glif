@@ -7,9 +7,46 @@
       <point x="0" y="0.37207" type="move"/>
       <point x="0" y="800" type="line"/>
       <point x="0" y="400.187" type="line"/>
-      <point x="497.778" y="400" type="line"/>
-      <point x="497.778" y="805.813" type="line"/>
-      <point x="497.778" y="6.18555" type="line"/>
+      <point x="405.889" y="399.419" type="line"/>
+      <point x="405.667" y="799.997" type="line"/>
+      <point x="405.75" y="0" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>375</integer>
+	    <key>width</key>	    <integer>50</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>780</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-25</integer>
+	    <key>width</key>
+	    <integer>50</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>473</integer>
+	    <key>width</key>
+	    <integer>50</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
